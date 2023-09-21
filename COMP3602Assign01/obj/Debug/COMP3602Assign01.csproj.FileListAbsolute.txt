@@ -1,0 +1,21 @@
+C:\Users\steven\allProjects\comp3602\COMP3602Assign01\COMP3602Assign01\bin\Debug\COMP3602Assign01.exe.config
+C:\Users\steven\allProjects\comp3602\COMP3602Assign01\COMP3602Assign01\bin\Debug\COMP3602Assign01.exe
+C:\Users\steven\allProjects\comp3602\COMP3602Assign01\COMP3602Assign01\bin\Debug\COMP3602Assign01.pdb
+C:\Users\steven\allProjects\comp3602\COMP3602Assign01\COMP3602Assign01\obj\Debug\COMP3602Assign01.csproj.AssemblyReference.cache
+C:\Users\steven\allProjects\comp3602\COMP3602Assign01\COMP3602Assign01\obj\Debug\COMP3602Assign01.csproj.CoreCompileInputs.cache
+C:\Users\steven\allProjects\comp3602\COMP3602Assign01\COMP3602Assign01\obj\Debug\COMP3602Assign01.exe
+C:\Users\steven\allProjects\comp3602\COMP3602Assign01\COMP3602Assign01\obj\Debug\COMP3602Assign01.pdb
+D:\Work\_M\Assign01\1147310-483662 - A01222657_Chen_Zeng_Sep 14, 2023 1015 PM_COMP3602Assign01\COMP3602Assign01\COMP3602Assign01\bin\Debug\COMP3602Assign01.exe.config
+D:\Work\_M\Assign01\1147310-483662 - A01222657_Chen_Zeng_Sep 14, 2023 1015 PM_COMP3602Assign01\COMP3602Assign01\COMP3602Assign01\bin\Debug\COMP3602Assign01.exe
+D:\Work\_M\Assign01\1147310-483662 - A01222657_Chen_Zeng_Sep 14, 2023 1015 PM_COMP3602Assign01\COMP3602Assign01\COMP3602Assign01\bin\Debug\COMP3602Assign01.pdb
+D:\Work\_M\Assign01\1147310-483662 - A01222657_Chen_Zeng_Sep 14, 2023 1015 PM_COMP3602Assign01\COMP3602Assign01\COMP3602Assign01\obj\Debug\COMP3602Assign01.csproj.AssemblyReference.cache
+D:\Work\_M\Assign01\1147310-483662 - A01222657_Chen_Zeng_Sep 14, 2023 1015 PM_COMP3602Assign01\COMP3602Assign01\COMP3602Assign01\obj\Debug\COMP3602Assign01.csproj.CoreCompileInputs.cache
+D:\Work\_M\Assign01\1147310-483662 - A01222657_Chen_Zeng_Sep 14, 2023 1015 PM_COMP3602Assign01\COMP3602Assign01\COMP3602Assign01\obj\Debug\COMP3602Assign01.exe
+D:\Work\_M\Assign01\1147310-483662 - A01222657_Chen_Zeng_Sep 14, 2023 1015 PM_COMP3602Assign01\COMP3602Assign01\COMP3602Assign01\obj\Debug\COMP3602Assign01.pdb
+C:\Users\steven\Desktop\comp 3602\assignment feedback\1147310-483662 - A01222657_Chen_Zeng_Sep 14, 2023 1015 PM_COMP3602Assign01\COMP3602Assign01\COMP3602Assign01\bin\Debug\COMP3602Assign01.exe.config
+C:\Users\steven\Desktop\comp 3602\assignment feedback\1147310-483662 - A01222657_Chen_Zeng_Sep 14, 2023 1015 PM_COMP3602Assign01\COMP3602Assign01\COMP3602Assign01\bin\Debug\COMP3602Assign01.exe
+C:\Users\steven\Desktop\comp 3602\assignment feedback\1147310-483662 - A01222657_Chen_Zeng_Sep 14, 2023 1015 PM_COMP3602Assign01\COMP3602Assign01\COMP3602Assign01\bin\Debug\COMP3602Assign01.pdb
+C:\Users\steven\Desktop\comp 3602\assignment feedback\1147310-483662 - A01222657_Chen_Zeng_Sep 14, 2023 1015 PM_COMP3602Assign01\COMP3602Assign01\COMP3602Assign01\obj\Debug\COMP3602Assign01.csproj.AssemblyReference.cache
+C:\Users\steven\Desktop\comp 3602\assignment feedback\1147310-483662 - A01222657_Chen_Zeng_Sep 14, 2023 1015 PM_COMP3602Assign01\COMP3602Assign01\COMP3602Assign01\obj\Debug\COMP3602Assign01.csproj.CoreCompileInputs.cache
+C:\Users\steven\Desktop\comp 3602\assignment feedback\1147310-483662 - A01222657_Chen_Zeng_Sep 14, 2023 1015 PM_COMP3602Assign01\COMP3602Assign01\COMP3602Assign01\obj\Debug\COMP3602Assign01.exe
+C:\Users\steven\Desktop\comp 3602\assignment feedback\1147310-483662 - A01222657_Chen_Zeng_Sep 14, 2023 1015 PM_COMP3602Assign01\COMP3602Assign01\COMP3602Assign01\obj\Debug\COMP3602Assign01.pdb
